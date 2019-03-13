@@ -1,4 +1,6 @@
 #include "LoggingTypes.hpp"
+#include <iostream>
+#include <fstream>
 
 bool ConsoleLogger::log(LoggingLevel log_level, const std::string& log_string)
 {
