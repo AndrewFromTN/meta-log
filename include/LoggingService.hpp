@@ -1,11 +1,9 @@
 #ifndef LOGGING_SERVICE_H
 #define LOGGING_SERVICE_H
 
-#include <iostream>
 #include <string>
 #include <tuple>
 #include <type_traits>
-#include <algorithm>
 
 #include "LoggingEnums.hpp"
 #include "LoggingProxy.hpp"
