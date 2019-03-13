@@ -2,7 +2,6 @@
 #define LOGGING_ENUMS_H
 
 #include <string>
-#include <vector>
 
 enum LoggingLevel 
 {
