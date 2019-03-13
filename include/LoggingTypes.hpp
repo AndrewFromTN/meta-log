@@ -1,9 +1,7 @@
 #ifndef LOGGING_TYPES_H
 #define LOGGING_TYPES_H
 
-#include <iostream>
 #include <string>
-#include <fstream>
 #include "LoggingEnums.hpp"
 
 class SocketLogger
